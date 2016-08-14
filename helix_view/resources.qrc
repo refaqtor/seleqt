@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/idd8-2-0.json</file>
+    </qresource>
+</RCC>
